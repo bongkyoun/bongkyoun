@@ -1,4 +1,5 @@
-## Hello👋 I am Kim Bong Kyoun who hopes to become a developer.
+## Hello👋 
+I am Kim Bong Kyoun who hopes to become a developer.
 
 
 <div align=center><h1>📚 STACKS</h1></div>
